@@ -1,0 +1,20 @@
+#ingnore target
+**/target
+#nb
+nbproject/
+#project
+.project
+#nbactions
+nbactions.xml
+#.gitignore
+#.gitignore
+#bin
+bin/
+#.settings
+.settings
+#.classpath
+.classpath
+#.idea
+.idea
+#iml
+spring-mvc-app1.iml
